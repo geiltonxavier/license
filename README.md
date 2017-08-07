@@ -1,2 +1,2 @@
-# license
-✌️ MIT license
+# license 
+MIT license
